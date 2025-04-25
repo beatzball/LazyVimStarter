@@ -1,7 +1,8 @@
 # 💤 LazyVim
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [original documentation](https://lazyvim.github.io/installation) to get started if you do not want to install from this starter project.
+Refer to the [original documentation](https://lazyvim.github.io/installation)
+to get started if you do not want to install from this starter project.
 
 ## 🛠️ Installation
 
@@ -24,7 +25,7 @@ Install this [LazyVim Starter](https://github.com/beatzball/LazyVimStarter)
 - Clone the starter
 
   ```sh
-  git clone https://github.com/beatball/LazyVimStarter ~/.config/nvim
+  git clone https://github.com/beatzball/LazyVimStarter ~/.config/nvim
   ```
 
 - Remove the `.git` folder, so you can add it to your own repo later
